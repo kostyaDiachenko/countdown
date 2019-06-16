@@ -1,0 +1,37 @@
+.timer {
+    display: flex;
+    max-width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    color: #fff;
+}
+
+.timer__node {
+    flex: 1;
+    text-align: center;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+.timer__divider {
+    flex: 0 0 auto;
+    font-size: 32px;
+    padding-top: 18px;
+    font-weight: 700;
+}
+
+.timer__value {
+    margin-top: 5px;
+    font-size: 40px;
+}
+
+.timer__point {
+    font-size: 16px;
+}
+
+@media (min-width: 768px) {
+    .timer__value {
+        font-size: 52px;
+    }
+}

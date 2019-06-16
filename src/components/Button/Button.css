@@ -1,0 +1,30 @@
+.button {
+    display: block;
+    max-width: 220px;
+    width: 100%;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+    padding: 15px;
+    background-color: #fdd835;
+    border: 0;
+    border-radius: 8px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    color: #222;
+    transition: background-color .2s ease-in-out;
+}
+
+.button:hover {
+    background-color: #FD8333;
+}
+
+@media (min-width: 768px) {
+    .button {
+        margin-top: 80px;
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,31 @@
+.title {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.title__value {
+    color: yellow;
+    animation-name: color_change;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes color_change {
+    from {
+        color: #fdd835;
+    }
+    to {
+        color: #FD8333;
+    }
+}
+
+@media (min-width: 768px) {
+    .title {
+        font-size: 32px;
+    }
+}
