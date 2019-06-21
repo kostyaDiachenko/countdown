@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/countdown/static/css/main.38688567.chunk.css",
+    "main.css": "/countdown/static/css/main.3c2628ac.chunk.css",
     "main.js": "/countdown/static/js/main.6befd690.chunk.js",
     "main.js.map": "/countdown/static/js/main.6befd690.chunk.js.map",
     "runtime~main.js": "/countdown/static/js/runtime~main.6f2a1a9a.js",
@@ -8,9 +8,8 @@
     "static/js/2.2f37f05a.chunk.js": "/countdown/static/js/2.2f37f05a.chunk.js",
     "static/js/2.2f37f05a.chunk.js.map": "/countdown/static/js/2.2f37f05a.chunk.js.map",
     "index.html": "/countdown/index.html",
-    "precache-manifest.0fc6bda77d08bc82a5e2d05dd26f5803.js": "/countdown/precache-manifest.0fc6bda77d08bc82a5e2d05dd26f5803.js",
+    "precache-manifest.91d3d3d9db1d9fd134f4a61efd6a8a71.js": "/countdown/precache-manifest.91d3d3d9db1d9fd134f4a61efd6a8a71.js",
     "service-worker.js": "/countdown/service-worker.js",
-    "static/css/main.38688567.chunk.css.map": "/countdown/static/css/main.38688567.chunk.css.map",
-    "static/media/App.css": "/countdown/static/media/bg.ad4ad595.jpg"
+    "static/css/main.3c2628ac.chunk.css.map": "/countdown/static/css/main.3c2628ac.chunk.css.map"
   }
 }
