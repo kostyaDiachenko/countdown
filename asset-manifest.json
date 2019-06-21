@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/countdown-markup/static/css/main.49805ff0.chunk.css",
+    "main.js": "/countdown-markup/static/js/main.f7b61db8.chunk.js",
+    "main.js.map": "/countdown-markup/static/js/main.f7b61db8.chunk.js.map",
+    "runtime~main.js": "/countdown-markup/static/js/runtime~main.94a3f7be.js",
+    "runtime~main.js.map": "/countdown-markup/static/js/runtime~main.94a3f7be.js.map",
+    "static/js/2.3310f33a.chunk.js": "/countdown-markup/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/countdown-markup/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/countdown-markup/index.html",
+    "precache-manifest.41a9d1342287db07571825292d3895c3.js": "/countdown-markup/precache-manifest.41a9d1342287db07571825292d3895c3.js",
+    "service-worker.js": "/countdown-markup/service-worker.js",
+    "static/css/main.49805ff0.chunk.css.map": "/countdown-markup/static/css/main.49805ff0.chunk.css.map"
+  }
+}
