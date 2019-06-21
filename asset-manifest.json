@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/countdown/static/css/main.3c2628ac.chunk.css",
-    "main.js": "/countdown/static/js/main.45758c77.chunk.js",
-    "main.js.map": "/countdown/static/js/main.45758c77.chunk.js.map",
+    "main.css": "/countdown/static/css/main.38688567.chunk.css",
+    "main.js": "/countdown/static/js/main.0d2ebc9d.chunk.js",
+    "main.js.map": "/countdown/static/js/main.0d2ebc9d.chunk.js.map",
     "runtime~main.js": "/countdown/static/js/runtime~main.6f2a1a9a.js",
     "runtime~main.js.map": "/countdown/static/js/runtime~main.6f2a1a9a.js.map",
     "static/js/2.2f37f05a.chunk.js": "/countdown/static/js/2.2f37f05a.chunk.js",
     "static/js/2.2f37f05a.chunk.js.map": "/countdown/static/js/2.2f37f05a.chunk.js.map",
     "index.html": "/countdown/index.html",
-    "precache-manifest.f289e47f2e8dd4dd245a77afffbdbbc9.js": "/countdown/precache-manifest.f289e47f2e8dd4dd245a77afffbdbbc9.js",
+    "precache-manifest.7859e0225c683f43a8c3b8b343325fc4.js": "/countdown/precache-manifest.7859e0225c683f43a8c3b8b343325fc4.js",
     "service-worker.js": "/countdown/service-worker.js",
-    "static/css/main.3c2628ac.chunk.css.map": "/countdown/static/css/main.3c2628ac.chunk.css.map"
+    "static/css/main.38688567.chunk.css.map": "/countdown/static/css/main.38688567.chunk.css.map",
+    "static/media/App.css": "/countdown/static/media/bg.ad4ad595.jpg"
   }
 }
