@@ -10,6 +10,7 @@ body {
 .app {
     min-height: calc(100vh - 130px);
     padding: 80px 15px 50px;
+    background-image: url('/countdown/img/bg.jpg');
     background-size: cover;
 }
 
@@ -19,6 +20,6 @@ body {
     all and (min-device-pixel-ratio: 1.5) {
 
     .app {
-        background-image: url('/img/bg-retina.jpg');
+        background-image: url('/countdown/img/bg-retina.jpg');
     }
 }
